@@ -1,1 +1,1 @@
-# draftcolor.vim
+# azuki.vim
