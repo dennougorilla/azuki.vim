@@ -1,6 +1,27 @@
-let g:colors_name = expand('<sfile>:t:r')
+"_____________________________________
+"    /\     _____  _    _  ||  /   \_ _/
+"   /  \       /   |    |  || /     | | 
+"  /____\    //    |    |  || \     | |
+" /      \  /____  |____|  ||  \   /___\
+"
+"
+" File:         azuki.vim
+" Last Change:	Wed Dec 20 09:48:23 JST 2017
+" Maintainer:	Dennougorilla <dennougorilla@gmail.com>
+
+
+if !has('gui_running') && &t_Co < 256
+    finish
+endif
+
 set background=dark
 highlight clear
+
+if exists('syntax_on')
+    syntax reset
+endif
+
+let g:colors_name = 'azuki'
 
 if &background ==# 'dark'
     "dark {{{
