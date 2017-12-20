@@ -1,4 +1,4 @@
-"_____________________________________
+"________________________________________
 "    /\     _____  _    _  ||  /   \_ _/
 "   /  \       /   |    |  || /     | | 
 "  /____\    //    |    |  || \     | |
@@ -106,6 +106,8 @@ if &background ==# 'dark'
 else
 
 endif
+
+let g:lightline = { 'colorscheme':'wombat'}
 
 ":help highlight-groups
 ":help group-name
