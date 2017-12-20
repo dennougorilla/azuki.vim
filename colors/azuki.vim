@@ -21,7 +21,7 @@ if exists('syntax_on')
     syntax reset
 endif
 
-let g:colors_name = 'azuki'
+let g:colors_name='azuki'
 
 if &background ==# 'dark'
     "dark {{{
@@ -106,8 +106,6 @@ if &background ==# 'dark'
 else
 
 endif
-
-let g:lightline = { 'colorscheme':'wombat'}
 
 ":help highlight-groups
 ":help group-name
