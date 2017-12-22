@@ -1,8 +1,12 @@
-"________________________________________
-"    /\     _____  _    _  ||  /   \_ _/
-"   /  \       /   |    |  || /     | | 
-"  /____\    //    |    |  || \     | |
-" /      \  /____  |____|  ||  \   /___\
+"
+"   Oo    OoooOOoO O       o `o    O  ooOoOOo 
+"  o  O         o  o       O  o   O      O    
+" O    o       O   O       o  O  O       o    
+"oOooOoOo     o    o       o  oOo        O    
+"o      O    O     o       O  o  o       o    
+"O      o   o      O       O  O   O      O    
+"o      O  O       `o     Oo  o    o     O    
+"O.     O OOooOooO  `OoooO'O  O     O ooOOoOo 
 "
 "
 " File:         azuki.vim
@@ -107,6 +111,11 @@ else
 
 endif
 
+"    /\     _____  _    _  ||  /   \_ _/
+"   /  \       /   |    |  || /     | | 
+"  /____\    //    |    |  || \     | |
+" /      \  /____  |____|  ||  \   /___\
+"
 ":help highlight-groups
 ":help group-name
 "ffd6d6 is white
