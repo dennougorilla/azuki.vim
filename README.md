@@ -3,5 +3,6 @@
 colorscheme for vim.
 ## LICENSE
 This software is released under the MIT License, see LICENSE.txt.
-###AUTHOR   
-[dennougorilla](https://github.comdennougorilla)d
+
+## AUTHOR   
+[dennougorilla](https://github.comdennougorilla)
